@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=refractored&label=Profile%20views&color=0e75b6&style=flat" alt="refractored" /> </p>
 
-- 🔭 I’m currently working on [sandwich-delivery](https://github.com/refractored/submarine-delivery)
+- 🔭 I’m currently working on: [sandwich-delivery](https://github.com/refractored/submarine-delivery)
 
-- 🌱 I’m currently learning **Svelt, Go, C#**
+- 🌱 I’m currently learning: **Svelt, Go, C#**
 
-- 📫 How to reach me **me@refractored**
+- 📫 You can reach me on discord: **refractored**
 
-- ⚡ Fun fact **Im really freaking cool**
+- ⚡ Fun fact: **Im really freaking cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
